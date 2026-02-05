@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 观看视频
-      link: /videos/
+      link: /videos/current/
     - theme: alt
       text: 开卡说明
       link: /guide/
