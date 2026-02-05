@@ -1,25 +1,20 @@
 name: Deploy VitePress to GitHub Pages
 
 on:
-  # 推送到 main 分支时触发
   push:
     branches: [main]
-  # 允许手动触发
   workflow_dispatch:
 
-# 设置权限
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# 只允许一个部署同时运行
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  # 构建任务
   build:
     runs-on: ubuntu-latest
     steps:
@@ -48,7 +43,6 @@ jobs:
         with:
           path: docs/.vitepress/dist
 
-  # 部署任务
   deploy:
     environment:
       name: github-pages

@@ -1,10 +1,13 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // GitHub Pages 部署路径（仓库名）
+  base: '/video.holymastercard/',
+
   // 网站标题
-  title: "教学文档中心",
+  title: "Holy Card教程",
   // 网站描述
-  description: "在线教学文档与视频资源库",
+  description: "Holy Card在线视频教程与学习资源库",
   // 语言设置
   lang: 'zh-CN',
 
@@ -13,19 +16,17 @@ export default defineConfig({
     // 顶部导航栏
     nav: [
       { text: '首页', link: '/' },
-      { text: '文档教程', link: '/guide/' },
-      { text: '视频课程', link: '/videos/' }
+      { text: '视频课程', link: '/videos/' },
+      { text: '开卡说明', link: '/guide/' }
     ],
 
     // 侧边栏配置
     sidebar: {
       '/guide/': [
         {
-          text: '入门指南',
+          text: '开卡说明',
           items: [
-            { text: '快速开始', link: '/guide/' },
-            { text: '第一课', link: '/guide/lesson-1' },
-            { text: '第二课', link: '/guide/lesson-2' }
+            { text: '开卡指南', link: '/guide/' }
           ]
         }
       ],
@@ -33,9 +34,30 @@ export default defineConfig({
         {
           text: '视频课程',
           items: [
-            { text: '视频列表', link: '/videos/' },
-            { text: '第一讲', link: '/videos/video-1' },
-            { text: '第二讲', link: '/videos/video-2' }
+            { text: '课程总览', link: '/videos/' }
+          ]
+        },
+        {
+          text: '现有视频教程',
+          collapsed: false,
+          items: [
+            { text: '课程介绍', link: '/videos/current/' },
+            { text: '第一讲', link: '/videos/current/video-1' },
+            { text: '第二讲', link: '/videos/current/video-2' }
+          ]
+        },
+        {
+          text: '微软相关教程',
+          collapsed: false,
+          items: [
+            { text: '微软教程', link: '/videos/microsoft/video-1' }
+          ]
+        },
+        {
+          text: 'Gemini 教程',
+          collapsed: false,
+          items: [
+            { text: '课程介绍', link: '/videos/gemini/' }
           ]
         }
       ]
@@ -48,7 +70,7 @@ export default defineConfig({
 
     // 页脚
     footer: {
-      message: '教学文档中心',
+      message: 'Holy Card教程',
       copyright: '© 2025'
     },
 
