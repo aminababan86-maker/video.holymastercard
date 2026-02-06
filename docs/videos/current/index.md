@@ -13,8 +13,11 @@
 
 ## 🔗 相关链接
 
-### 短链接生成
-🔗 [https://www.meiguodizhi.com/](https://www.meiguodizhi.com/)
+### 绑卡转短链接链接
+🔗 [https://team.aimizy.com/pay](https://team.aimizy.com/pay)
+
+### 地址生成
+📍 [https://www.meiguodizhi.com/](https://www.meiguodizhi.com/)
 
 ### 域名邮箱生成
 📧 [https://mail.chatgpt.org.uk/](https://mail.chatgpt.org.uk/)
