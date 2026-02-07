@@ -53,7 +53,7 @@
   <div style="position: relative; margin-bottom: 30px;">
     <div style="position: absolute; left: -49px; top: 0; width: 36px; height: 36px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 10px rgba(102, 126, 234, 0.3);">1</div>
     <div style="background: #f8f9fa; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <strong>到 IProxy 购买静态家宽 IP</strong>
+      <strong style="color: #333;">到 IProxy 购买静态家宽 IP</strong>
       <p style="margin: 10px 0 0 0; color: #666;">务必选择静态家宽，约4刀/月</p>
     </div>
   </div>
@@ -61,15 +61,15 @@
   <div style="position: relative; margin-bottom: 30px;">
     <div style="position: absolute; left: -49px; top: 0; width: 36px; height: 36px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 10px rgba(102, 126, 234, 0.3);">2</div>
     <div style="background: #f8f9fa; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <strong>开启 Clash 的全局和 TUN 模式</strong>
-      <p style="margin: 10px 0 0 0; color: #666;">确保 <strong>全局 (Global)</strong> 和 <strong>TUN 模式</strong> 都已开启</p>
+      <strong style="color: #333;">开启 Clash 的全局和 TUN 模式</strong>
+      <p style="margin: 10px 0 0 0; color: #666;">确保 <strong style="color: #333;">全局 (Global)</strong> 和 <strong style="color: #333;">TUN 模式</strong> 都已开启</p>
     </div>
   </div>
 
   <div style="position: relative; margin-bottom: 30px;">
     <div style="position: absolute; left: -49px; top: 0; width: 36px; height: 36px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 10px rgba(102, 126, 234, 0.3);">3</div>
     <div style="background: #f8f9fa; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <strong>在 Linksphere 浏览器中配置代理</strong>
+      <strong style="color: #333;">在 Linksphere 浏览器中配置代理</strong>
       <p style="margin: 10px 0 0 0; color: #666;">配置买好的 IP 代理并打开浏览器</p>
     </div>
   </div>
@@ -77,7 +77,7 @@
   <div style="position: relative;">
     <div style="position: absolute; left: -49px; top: 0; width: 36px; height: 36px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 10px rgba(102, 126, 234, 0.3);">4</div>
     <div style="background: #f8f9fa; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <strong>粘贴付款链接进行支付</strong>
+      <strong style="color: #333;">粘贴付款链接进行支付</strong>
       <p style="margin: 10px 0 0 0; color: #666;">完成支付即可</p>
     </div>
   </div>
