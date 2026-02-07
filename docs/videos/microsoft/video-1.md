@@ -24,14 +24,14 @@
 
 ## 📋 教程简介
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 3px; border-radius: 12px; margin: 30px 0;">
+<div style="background: #ec4899; padding: 3px; border-radius: 12px; margin: 30px 0;">
   <div style="background: white; padding: 25px; border-radius: 10px;">
     <div style="margin-bottom: 15px;">
-      <span style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 6px; font-weight: 600; margin-right: 10px;">1</span>
+      <span style="display: inline-block; padding: 8px 16px; background: #ec4899; color: white; border-radius: 6px; font-weight: 600; margin-right: 10px;">1</span>
       <span style="color: #333;">微软学生：4462，4983（美国IP+卡片对应地址）</span>
     </div>
     <div>
-      <span style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 6px; font-weight: 600; margin-right: 10px;">2</span>
+      <span style="display: inline-block; padding: 8px 16px; background: #ec4899; color: white; border-radius: 6px; font-weight: 600; margin-right: 10px;">2</span>
       <span style="color: #333;">使用纯净网络环境</span>
     </div>
   </div>
@@ -40,7 +40,7 @@
 ## 🔗 相关链接
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin: 30px 0;">
-  <a href="./" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">← 返回教程列表</a>
-  <a href="../" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 15px rgba(17, 153, 142, 0.3);">← 返回视频总览</a>
-  <a href="/" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 15px rgba(245, 87, 108, 0.3);">← 返回首页</a>
+  <a href="./" style="display: inline-block; padding: 12px 24px; background: #6366f1; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);">← 返回教程列表</a>
+  <a href="../" style="display: inline-block; padding: 12px 24px; background: #10b981; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);">← 返回视频总览</a>
+  <a href="/" style="display: inline-block; padding: 12px 24px; background: #ec4899; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(236, 72, 153, 0.3);">← 返回首页</a>
 </div>

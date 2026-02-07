@@ -1,18 +1,18 @@
 # Gemini 教程
 
-<div style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); padding: 20px; border-radius: 12px; color: white; margin: 20px 0;">
+<div style="background: #10b981; padding: 20px; border-radius: 12px; color: white; margin: 20px 0;">
   <p style="margin: 0; font-size: 16px; color: white;">🤖 手搓文档过验证，轻松领取 Gemini Pro</p>
 </div>
 
 ## 📚 手搓文档过验证教程
 
-<div style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); padding: 3px; border-radius: 12px; margin: 30px 0;">
+<div style="background: #10b981; padding: 3px; border-radius: 12px; margin: 30px 0;">
   <div style="background: white; padding: 25px; border-radius: 10px;">
     <p style="color: #333; margin: 0 0 20px 0; line-height: 1.8;">
       1key已停止服务后，可以通过手搓资料的方式成功领取12个月Gemini Pro。以下视频提供了完整的申请流程和多份文档模板：
     </p>
     <div style="text-align: center;">
-      <a href="https://b23.tv/HUafgOT" target="_blank" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 10px 30px rgba(17, 153, 142, 0.4); transition: all 0.3s ease;">
+      <a href="https://b23.tv/HUafgOT" target="_blank" style="display: inline-block; padding: 15px 40px; background: #10b981; color: white; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 8px 20px rgba(16, 185, 129, 0.3); transition: all 0.3s ease;">
         🎥 观看完整教程视频
       </a>
     </div>
@@ -37,6 +37,6 @@
 ## 🔙 返回
 
 <div style="text-align: center; margin: 40px 0;">
-  <a href="../" style="display: inline-block; padding: 12px 30px; background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 15px rgba(17, 153, 142, 0.3); margin-right: 10px;">← 返回视频总览</a>
-  <a href="/" style="display: inline-block; padding: 12px 30px; background: #f8f9fa; color: #666; text-decoration: none; border-radius: 8px; font-weight: 600; border: 2px solid #e9ecef;">← 返回首页</a>
+  <a href="../" style="display: inline-block; padding: 12px 30px; background: #10b981; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3); margin-right: 10px;">← 返回视频总览</a>
+  <a href="/" style="display: inline-block; padding: 12px 30px; background: #f8f9fa; color: #333; text-decoration: none; border-radius: 8px; font-weight: 600; border: 2px solid #e9ecef;">← 返回首页</a>
 </div>

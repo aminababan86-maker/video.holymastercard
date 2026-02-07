@@ -29,12 +29,12 @@ features:
 ---
 
 <div style="max-width: 800px; margin: 60px auto; text-align: center;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 20px; box-shadow: 0 20px 60px rgba(102, 126, 234, 0.3);">
+  <div style="background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); padding: 40px; border-radius: 20px; box-shadow: 0 20px 60px rgba(99, 102, 241, 0.25);">
     <h2 style="color: white; margin: 0 0 20px 0; font-size: 28px;">💬 加入交流群</h2>
-    <p style="color: rgba(255,255,255,0.9); margin: 0 0 30px 0; font-size: 16px;">
+    <p style="color: rgba(255,255,255,0.95); margin: 0 0 30px 0; font-size: 16px;">
       遇到问题？想要交流经验？加入我们的 Telegram 群组
     </p>
-    <a href="https://t.me/+_0MFC_L_YddkMDE9" target="_blank" style="display: inline-block; padding: 15px 40px; background: white; color: #667eea; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <a href="https://t.me/+_0MFC_L_YddkMDE9" target="_blank" style="display: inline-block; padding: 15px 40px; background: white; color: #6366f1; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;">
       立即加入 Telegram 群组 →
     </a>
   </div>
