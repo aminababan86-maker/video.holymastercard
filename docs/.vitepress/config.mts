@@ -38,12 +38,10 @@ export default defineConfig({
           ]
         },
         {
-          text: '现有视频教程',
+          text: 'chatGPT-team教程',
           collapsed: false,
           items: [
-            { text: '课程介绍', link: '/videos/current/' },
-            { text: '第一讲', link: '/videos/current/video-1' },
-            { text: '第二讲', link: '/videos/current/video-2' }
+            { text: '课程介绍', link: '/videos/chatGPT/' }
           ]
         },
         {
