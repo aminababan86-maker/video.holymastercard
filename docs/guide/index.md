@@ -22,8 +22,8 @@
   <p style="color: #856404; margin: 10px 0;"><strong>报错提示：</strong> 当前开卡人数过多，请等待一两分钟</p>
   <p style="color: #856404; margin: 10px 0;">💡 <strong>解决方法：</strong> 此时开卡人数过多，若急用可购买 4866 或 4446 卡头：</p>
   <div style="margin: 20px 0; display: flex; gap: 10px; flex-wrap: wrap;">
-    <a href="https://www.holy-card.com/" target="_blank" style="display: inline-block; padding: 12px 24px; background: #10b981; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);">购买 4866 卡 (可过Gemini、Team)</a>
-    <a href="https://www.holy-card.com/" target="_blank" style="display: inline-block; padding: 12px 24px; background: #10b981; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);">购买 4446 卡</a>
+    <a href="https://www.holy-card.com/" target="_blank" style="display: inline-block; padding: 12px 24px; background: #8b5cf6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);">购买 4866 卡 (可过Gemini、Team)</a>
+    <a href="https://www.holy-card.com/" target="_blank" style="display: inline-block; padding: 12px 24px; background: #8b5cf6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);">购买 4446 卡</a>
   </div>
 </div>
 

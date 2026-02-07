@@ -41,6 +41,6 @@
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin: 30px 0;">
   <a href="./" style="display: inline-block; padding: 12px 24px; background: #6366f1; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);">← 返回教程列表</a>
-  <a href="../" style="display: inline-block; padding: 12px 24px; background: #10b981; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);">← 返回视频总览</a>
+  <a href="../" style="display: inline-block; padding: 12px 24px; background: #8b5cf6; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);">← 返回视频总览</a>
   <a href="/" style="display: inline-block; padding: 12px 24px; background: #ec4899; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(236, 72, 153, 0.3);">← 返回首页</a>
 </div>

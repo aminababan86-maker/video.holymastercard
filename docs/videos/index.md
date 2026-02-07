@@ -29,12 +29,12 @@
   </div>
 
   <!-- Gemini 教程卡片 -->
-  <div style="background: #10b981; padding: 3px; border-radius: 16px; box-shadow: 0 8px 24px rgba(16, 185, 129, 0.25); transition: all 0.3s ease;">
+  <div style="background: #8b5cf6; padding: 3px; border-radius: 16px; box-shadow: 0 8px 24px rgba(139, 92, 246, 0.25); transition: all 0.3s ease;">
     <div style="background: white; padding: 30px; border-radius: 14px; height: 100%;">
       <div style="font-size: 48px; margin-bottom: 15px;">🤖</div>
-      <h3 style="margin: 0 0 15px 0; color: #10b981; font-size: 22px;">Gemini 教程</h3>
+      <h3 style="margin: 0 0 15px 0; color: #8b5cf6; font-size: 22px;">Gemini 教程</h3>
       <p style="color: #666; margin: 0 0 20px 0; line-height: 1.6;">学生验证手搓文档教程，详细操作步骤说明</p>
-      <a href="./gemini/" style="display: inline-block; padding: 12px 24px; background: #10b981; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; transition: all 0.3s ease;">查看文档 →</a>
+      <a href="./gemini/" style="display: inline-block; padding: 12px 24px; background: #8b5cf6; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; transition: all 0.3s ease;">查看文档 →</a>
     </div>
   </div>
 
