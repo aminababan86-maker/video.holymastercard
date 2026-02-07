@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 观看视频
-      link: /videos/current/
+      link: /videos/chatGPT/
     - theme: alt
       text: 开卡说明
       link: /guide/
@@ -17,7 +17,7 @@ features:
   - title: 📚 开卡说明文档
     link: /guide/
   - title: 💳 chatGPT-team教程
-    link: /videos/current/
+    link: /videos/chatGPT/
   - title: 🏢 微软相关教程
     link: /videos/microsoft/video-1
   - title: 🤖 Gemini 教程
