@@ -27,11 +27,11 @@
   </div>
 </div>
 
-<div style="background: #d1ecf1; border-left: 4px solid #17a2b8; padding: 20px; border-radius: 8px; margin: 20px 0;">
-  <h3 style="margin-top: 0; color: #0c5460;">ℹ️ 2. 卡头 44 / 49 系列</h3>
-  <p style="color: #0c5460; margin: 10px 0;">若无法激活，请耐心等待 5 分钟。若仍不行，请联系：</p>
+<div style="background: #e0e7ff; border-left: 4px solid #6366f1; padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <h3 style="margin-top: 0; color: #3730a3;">ℹ️ 2. 卡头 44 / 49 系列</h3>
+  <p style="color: #3730a3; margin: 10px 0;">若无法激活，请耐心等待 5 分钟。若仍不行，请联系：</p>
   <p style="margin: 10px 0;">
-    <a href="https://t.me/+_0MFC_L_YddkMDE9" target="_blank" style="color: #0c5460; font-weight: 600; text-decoration: none; border-bottom: 2px solid #17a2b8;">📱 Telegram 联系群主</a>
+    <a href="https://t.me/+_0MFC_L_YddkMDE9" target="_blank" style="color: #3730a3; font-weight: 600; text-decoration: none; border-bottom: 2px solid #6366f1;">📱 Telegram 联系群主</a>
   </p>
 </div>
 
