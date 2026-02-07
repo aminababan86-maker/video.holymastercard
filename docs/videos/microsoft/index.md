@@ -14,7 +14,7 @@
       微软相关技术和工具的使用教程，学生优惠申请完整流程
     </p>
     <div style="text-align: center;">
-      <a href="./video-1" style="display: inline-block; padding: 15px 40px; background: #ec4899; color: white; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 8px 20px rgba(236, 72, 153, 0.3); transition: all 0.3s ease;">
+      <a href="./video-1" style="display: inline-block; padding: 15px 40px; background: #f8f9fa; color: #333; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 2px solid #e9ecef; transition: all 0.3s ease;">
         🎥 点击观看教程
       </a>
     </div>
@@ -26,6 +26,6 @@
 ## 🔙 返回
 
 <div style="text-align: center; margin: 40px 0;">
-  <a href="../" style="display: inline-block; padding: 12px 30px; background: #ec4899; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(236, 72, 153, 0.3); margin-right: 10px;">← 返回视频总览</a>
+  <a href="../" style="display: inline-block; padding: 12px 30px; background: #f8f9fa; color: #333; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 2px solid #e9ecef; margin-right: 10px;">← 返回视频总览</a>
   <a href="/" style="display: inline-block; padding: 12px 30px; background: #f8f9fa; color: #333; text-decoration: none; border-radius: 8px; font-weight: 600; border: 2px solid #e9ecef;">← 返回首页</a>
 </div>

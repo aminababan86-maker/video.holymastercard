@@ -34,7 +34,7 @@ features:
     <p style="color: rgba(255,255,255,0.95); margin: 0 0 30px 0; font-size: 16px;">
       遇到问题？想要交流经验？加入我们的 Telegram 群组
     </p>
-    <a href="https://t.me/+_0MFC_L_YddkMDE9" target="_blank" style="display: inline-block; padding: 15px 40px; background: white; color: #6366f1; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <a href="https://t.me/+_0MFC_L_YddkMDE9" target="_blank" style="display: inline-block; padding: 15px 40px; background: rgba(255,255,255,0.95); color: #333; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;">
       立即加入 Telegram 群组 →
     </a>
   </div>

@@ -12,7 +12,7 @@
       1key已停止服务后，可以通过手搓资料的方式成功领取12个月Gemini Pro。以下视频提供了完整的申请流程和多份文档模板：
     </p>
     <div style="text-align: center;">
-      <a href="https://b23.tv/HUafgOT" target="_blank" style="display: inline-block; padding: 15px 40px; background: #8b5cf6; color: white; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 8px 20px rgba(139, 92, 246, 0.3); transition: all 0.3s ease;">
+      <a href="https://b23.tv/HUafgOT" target="_blank" style="display: inline-block; padding: 15px 40px; background: #f8f9fa; color: #333; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 18px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 2px solid #e9ecef; transition: all 0.3s ease;">
         🎥 观看完整教程视频
       </a>
     </div>
@@ -37,6 +37,6 @@
 ## 🔙 返回
 
 <div style="text-align: center; margin: 40px 0;">
-  <a href="../" style="display: inline-block; padding: 12px 30px; background: #8b5cf6; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3); margin-right: 10px;">← 返回视频总览</a>
+  <a href="../" style="display: inline-block; padding: 12px 30px; background: #f8f9fa; color: #333; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 2px solid #e9ecef; margin-right: 10px;">← 返回视频总览</a>
   <a href="/" style="display: inline-block; padding: 12px 30px; background: #f8f9fa; color: #333; text-decoration: none; border-radius: 8px; font-weight: 600; border: 2px solid #e9ecef;">← 返回首页</a>
 </div>
