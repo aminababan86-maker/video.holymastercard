@@ -1,6 +1,5 @@
 # chatGPT-team教程
 
-欢迎学习 chatGPT-team 开卡教程！本视频将帮助您顺利完成开卡流程。
 
 ## 📺 视频教程
 
