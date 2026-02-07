@@ -29,13 +29,9 @@
 
 ### 绑卡失败常见问题
 
-🎥 [绑卡失败视频教程](https://aminababan86-maker.github.io/video.holymastercard/)
-
-**绑卡失败原因：**
 1. 若未出现优惠，尝试切换IP或机场
 2. 推荐使用域名邮箱注册
 3. 建议使用新账号
-
 ---
 
 ## 🔙 返回
