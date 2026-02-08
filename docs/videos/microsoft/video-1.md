@@ -1,7 +1,5 @@
 # 微软教程
 
-# 微软教程
-
 ## 📺 视频播放
 
 <div style="position: relative; max-width: 900px; margin: 30px auto; padding: 0;">
